@@ -1,2 +1,18 @@
+📂 Código del Proyecto: Estación de Aire SMD
 
-mi_carpeta/archivo.txt
+----En esta carpeta encontrarás el código listo para:
+
+💻 Abrirse directamente en Visual Studio Code.
+🔌 Cargarse al Arduino para el control de la Estación de Aire SMD.
+
+----Características del Código:
+
+🔥 PID para control de temperatura: El código incluye un sistema de control PID preconfigurado, optimizado para manejar la resistencia de manera precisa y segura.
+📝 Comentarios explicativos: Cada sección del código está comentada para facilitar su comprensión, incluso si eres nuevo en programación.
+✨ Personalizable: Puedes modificar ciertas funciones, como:
+Lo que se muestra en el display.
+Agregar funciones adicionales, como un LED indicador, botones extras, o cualquier funcionalidad que desees.
+----⚠️ Importante No modifiques las partes relacionadas con el manejo del PID ni con el control de la resistencia de 220V. 
+Estas secciones han sido calculadas y probadas cuidadosamente para garantizar un funcionamiento seguro y evitar cualquier problema eléctrico. 🚨⚡
+
+¡Anímate a personalizar el proyecto y a aprender con cada paso! 🛠️💡
